@@ -1,3 +1,5 @@
+# this one doesn't work go to the other file and specify your paths
+
 import xlwings as xw
 
 def get_text_format(sheet, cell):
